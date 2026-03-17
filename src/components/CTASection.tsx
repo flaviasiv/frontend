@@ -42,7 +42,7 @@ const CTASection: React.FC = () => (
             <br />
             Agende sua consulta online e comece seu tratamento hoje mesmo.
           </p>
-          <Button as="a" href="https://wa.me/15556286342?text=Ol%C3%A1!%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20tratamentos%20da%20Eco%20Terapia." target="_blank" rel="noopener noreferrer">
+          <Button as="a" href="https://wa.me/5511978326295?text=Ol%C3%A1!%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20tratamentos%20da%20Pura%20Terapia." target="_blank" rel="noopener noreferrer">
             Falar com um especialista
           </Button>
           <img
