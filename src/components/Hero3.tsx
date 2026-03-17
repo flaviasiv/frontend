@@ -29,7 +29,7 @@ const Hero3: React.FC = () => (
           <source media="(min-width: 768px)" type="image/png" srcSet="/images/hero-saude-mental.png" />
           <img
             src={mobileHeroSaude}
-            alt="Paciente relaxando após terapia com Eco Terapia"
+            alt="Paciente relaxando após terapia com Pura Terapia"
             className="h-full w-full object-cover"
             loading="lazy"
           />

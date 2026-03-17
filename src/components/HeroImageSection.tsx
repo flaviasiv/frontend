@@ -8,7 +8,7 @@ const HeroImageSection: React.FC = () => (
       <div className="relative h-[384px] w-[343px] overflow-hidden rounded-eco">
         <img
           src={mobileHeroLogoGrid}
-          alt="Marcas parceiras Eco Terapia"
+          alt="Marcas parceiras Pura Terapia"
           className="h-full w-full object-cover"
           loading="lazy"
         />
@@ -19,7 +19,7 @@ const HeroImageSection: React.FC = () => (
               <img
                 key={index}
                 src="/images/logo-horizontal-white.svg"
-                alt="Eco Terapia"
+                alt="Pura Terapia"
                 style={{ height: '60px', width: 'auto' }}
                 loading="lazy"
               />
@@ -44,7 +44,7 @@ const HeroImageSection: React.FC = () => (
             <img
               key={index}
               src="/images/logo-horizontal-white.svg"
-              alt="Eco Terapia"
+              alt="Pura Terapia"
               style={{ height: '100px', width: 'auto' }}
               loading="lazy"
             />

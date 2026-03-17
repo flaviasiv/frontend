@@ -26,7 +26,7 @@ const Header: React.FC = () => {
           <source media="(min-width: 768px)" type="image/png" srcSet="/images/hero-header-33c370.png" />
           <img
             src={mobileHeaderHero}
-            alt="Paciente sorrindo recebendo acompanhamento da Eco Terapia"
+            alt="Paciente sorrindo recebendo acompanhamento da Pura Terapia"
             className="h-full w-full object-cover"
             loading="eager"
           />

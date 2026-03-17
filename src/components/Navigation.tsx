@@ -107,7 +107,7 @@ const Navigation: React.FC = () => {
           }`}>
             <img
               src="/images/logo-icon-white.svg"
-              alt="Eco Terapia"
+              alt="Pura Terapia"
               className={`drop-shadow-md ${
                 prefersReducedMotion ? '' : 'transition-all duration-300'
               } ${
@@ -194,7 +194,7 @@ const Navigation: React.FC = () => {
         <div className="flex w-full max-w-[1200px] items-center justify-between pt-5 pb-20">
           <img
             src="/images/logo-horizontal.svg"
-            alt="Eco Terapia"
+            alt="Pura Terapia"
             className="h-[29px] w-auto"
           />
           <Button as="a" href="#contato">

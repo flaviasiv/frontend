@@ -47,7 +47,7 @@ const CTASection: React.FC = () => (
           </Button>
           <img
             src="/images/logo-horizontal-white.svg"
-            alt="Eco Terapia"
+            alt="Pura Terapia"
             className="h-auto w-[200px] md:w-[220px]"
           />
         </div>
